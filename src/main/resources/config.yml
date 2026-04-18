@@ -1,0 +1,16 @@
+# Nickname Filter Settings
+filter:
+  enabled: true
+  # List of words or roots that cannot be used in a username
+  bad_words:
+    - "fuck"
+    - "bitch"
+    - "хуй"
+    - "пизд"
+    - "ебан"
+    - "шлюх"
+    - "мразь"
+
+# Plugin messages
+messages:
+  kick_reason: "&cYour username contains invalid characters!\n&ePlease change your username."
