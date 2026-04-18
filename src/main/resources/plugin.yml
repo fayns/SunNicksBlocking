@@ -1,0 +1,6 @@
+name: SunNicksBlocking
+version: '${version}'
+main: org.fayns.sunnicksblocking.SunNicksBlocking
+api-version: '1.16'
+authors: [fayns]
+website: https://fayns.kesug.com
